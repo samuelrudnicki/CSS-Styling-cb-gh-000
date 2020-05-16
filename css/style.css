@@ -1,6 +1,5 @@
 /* Comment */
-@import url('https://fonts.googleapis.com/css2?family=Elsie+Swash+Caps&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Clicker+Script&family=Elsie+Swash+Caps&display=swap');
 p {
   font-size: 1em; /*px, pt(not the same always), 100%, em(width of m)*/
   line-height: 1.5em;
