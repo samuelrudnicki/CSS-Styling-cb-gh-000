@@ -1,4 +1,5 @@
 /* Comment */
 p {
-  font-size: 16px; /*px, pt(not the same always), 100%, em(width of m)*/
+  font-size: 1em; /*px, pt(not the same always), 100%, em(width of m)*/
+  line-height: 1.5em;
 }
