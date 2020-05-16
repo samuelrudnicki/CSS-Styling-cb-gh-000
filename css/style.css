@@ -3,3 +3,10 @@ p {
   font-size: 1em; /*px, pt(not the same always), 100%, em(width of m)*/
   line-height: 1.5em;
 }
+
+figcaption {
+  font-weight: normal;
+  font-size: 0.75em;
+  line-height: 1.5em;
+  font-family: Georgia, "New Times Roman", serif;;
+}
